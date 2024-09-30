@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Burbuja.operation
 {
-   internal class Burbuja
+   internal class MetBurbuja
    {
       public void ordenarBurbuja(int[] arreglo) {
       for(int i = 0; i< arreglo.Length; i++)

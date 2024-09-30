@@ -7,3 +7,4 @@ C:\Users\labc205\Desktop\SemestreIIEd\Sesion13\Sesion13\Burbuja\obj\Debug\Burbuj
 C:\Users\labc205\Desktop\SemestreIIEd\Sesion13\Sesion13\Burbuja\obj\Debug\Burbuja.csproj.CoreCompileInputs.cache
 C:\Users\labc205\Desktop\SemestreIIEd\Sesion13\Sesion13\Burbuja\obj\Debug\Burbuja.exe
 C:\Users\labc205\Desktop\SemestreIIEd\Sesion13\Sesion13\Burbuja\obj\Debug\Burbuja.pdb
+C:\Users\labc205\Desktop\SemestreIIEd\Sesion13\Sesion13\Burbuja\obj\Debug\Burbuja.Form1.resources
